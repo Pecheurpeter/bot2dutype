@@ -1,0 +1,442 @@
+{
+    "jobs": ["frene","chataigne","noyer","chene"],
+    "actions": [
+        {
+            "type": "click",
+			"mapid": "1332",
+            "x": 1590,
+            "y": 590
+        },
+        {
+            "type": "click",
+			"mapid": "1286",
+            "x": 1586,
+            "y": 248
+        },
+        {
+            "type": "click",
+			"mapid": "1299",
+            "x": 1590,
+            "y": 440
+        },
+        {
+            "type": "click",
+			"mapid": "1305",
+            "x": 1007,
+            "y": 49
+        },
+		{
+            "type": "click",
+			"mapid": "1397",
+            "x": 1590,
+            "y": 194
+        },
+		{
+            "type": "click",
+			"mapid": "1393",
+            "x": 1594,
+            "y": 488
+        },
+		{
+            "type": "click",
+			"mapid": "1392",
+            "x": 1590,
+            "y": 344
+        },
+		{
+            "type": "click",
+			"mapid": "1379",
+            "x": 1590,
+            "y": 246
+        },
+		{
+            "type": "click",
+			"mapid": "1375",
+            "x": 1590,
+            "y": 541
+        },
+		{
+            "type": "click",
+			"mapid": "1371",
+            "x": 1590,
+            "y": 343
+        },
+		{
+            "type": "click",
+			"mapid": "1322",
+            "x": 1591,
+            "y": 295
+        },
+		{
+            "type": "click",
+			"mapid": "1304",
+            "x": 817,
+            "y": 790
+        },
+		{
+            "type": "click",
+			"mapid": "1319",
+            "x": 330,
+            "y": 195
+        },
+		{
+            "type": "click",
+			"mapid": "1345",
+            "x": 329,
+            "y": 195
+        },
+		{
+            "type": "click",
+			"mapid": "1284",
+            "x": 328,
+            "y": 741
+        },
+		{
+            "type": "click",
+			"mapid": "1289",
+            "x": 328,
+            "y": 395
+        },
+		{
+            "type": "click",
+			"mapid": "1302",
+            "x": 329,
+            "y": 444
+        },
+		{
+            "type": "click",
+			"mapid": "1303",
+            "x": 327,
+            "y": 395
+        },
+		{
+            "type": "click",
+			"mapid": "1314",
+            "x": 1204,
+            "y": 789
+        },
+		{
+            "type": "click",
+			"mapid": "1312",
+            "x": 911,
+            "y": 790
+        },
+		{
+            "type": "click",
+			"mapid": "1404",
+            "x": 330,
+            "y": 96
+        },
+		{
+            "type": "click",
+			"mapid": "1410",
+            "x": 816,
+            "y": 48
+        },
+		{
+            "type": "click",
+			"mapid": "1320",
+            "x": 329,
+            "y": 492
+        },
+		{
+            "type": "click",
+			"mapid": "1323",
+            "x": 330,
+            "y": 294
+        },
+		{
+            "type": "click",
+			"mapid": "1405",
+            "x": 377,
+            "y": 70
+        },
+		{
+            "type": "click",
+			"mapid": "1394",
+            "x": 1494,
+            "y": 47
+        },
+		{
+            "type": "click",
+			"mapid": "10371",
+            "x": 1396,
+            "y": 740
+        },
+		{
+            "type": "click",
+			"mapid": "1886",
+            "x": 1106,
+            "y": 789
+        },
+		{
+            "type": "click",
+			"mapid": "1888",
+            "x": 1298,
+            "y": 790
+        },
+		{
+			"type": "click",
+			"mapid": "1890",
+			"coordinates": [
+				{"x": 1006, "y": 154, "delay": 3},
+				{"x": 1395, "y": 788}
+			]
+		},
+		{
+            "type": "click",
+			"mapid": "1892",
+            "x": 330,
+            "y": 788
+        },
+		{
+            "type": "click",
+			"mapid": "1910",
+            "x": 328,
+            "y": 591
+        },
+		{
+            "type": "click",
+			"mapid": "9402",
+            "x": 330,
+            "y": 541
+        },
+		{
+            "type": "click",
+			"mapid": "1301",
+            "x": 329,
+            "y": 146
+        }
+    ],
+    "banking": [
+        {
+            "type": "click",
+			"mapid": "1332",
+            "x": 1590,
+            "y": 590
+        },
+		{
+            "type": "click",
+			"mapid": "1345",
+            "x": 911,
+            "y": 47
+        },
+		{
+            "type": "click",
+			"mapid": "1394",
+            "x": 1494,
+            "y": 47
+        },
+				{
+            "type": "click",
+			"mapid": "1397",
+            "x": 1590,
+            "y": 194
+        },
+		{
+            "type": "click",
+			"mapid": "1405",
+            "x": 1009,
+            "y": 47
+        },
+		{
+            "type": "click",
+			"mapid": "1284",
+            "x": 862,
+            "y": 72
+        },
+		{
+            "type": "click",
+			"mapid": "1393",
+            "x": 1594,
+            "y": 488
+        },
+		{
+            "type": "click",
+			"mapid": "1392",
+            "x": 1590,
+            "y": 344
+        },
+		{
+            "type": "click",
+			"mapid": "1379",
+            "x": 1590,
+            "y": 246
+        },
+		{
+            "type": "click",
+			"mapid": "1375",
+            "x": 1590,
+            "y": 541
+        },
+		{
+            "type": "click",
+			"mapid": "1371",
+            "x": 1590,
+            "y": 343
+        },
+		{
+            "type": "click",
+			"mapid": "1322",
+            "x": 1591,
+            "y": 295
+        },
+		{
+            "type": "click",
+			"mapid": "1289",
+            "x": 816,
+            "y": 49
+        },
+		{
+            "type": "click",
+			"mapid": "1303",
+            "x": 1251,
+            "y": 71
+        },
+		{
+            "type": "click",
+			"mapid": "1314",
+            "x": 1104,
+            "y": 49
+        },
+		{
+            "type": "click",
+			"mapid": "1312",
+            "x": 1300,
+            "y": 50
+        },
+		{
+            "type": "click",
+			"mapid": "1404",
+            "x": 910,
+            "y": 46
+        },
+		{
+            "type": "click",
+			"mapid": "1320",
+            "x": 1011,
+            "y": 48
+        },
+		{
+            "type": "click",
+			"mapid": "1323",
+            "x": 911,
+            "y": 50
+        },
+        {
+            "type": "click",
+			"mapid": "1286",
+            "x": 1586,
+            "y": 248
+        },
+        {
+            "type": "click",
+			"mapid": "1299",
+            "x": 1590,
+            "y": 440
+        },
+        {
+            "type": "click",
+			"mapid": "1305",
+            "x": 1007,
+            "y": 49
+        },
+        {
+            "type": "click",
+			"mapid": "1314",
+            "x": 1588,
+            "y": 394
+        },
+        {
+            "type": "click",
+			"mapid": "1303",
+            "x": 1590,
+            "y": 445
+        },
+        {
+            "type": "click",
+			"mapid": "1302",
+            "x": 1543,
+            "y": 418
+        },
+        {
+            "type": "click",
+			"mapid": "1289",
+            "x": 1590,
+            "y": 736
+        },
+        {
+            "type": "click",
+			"mapid": "1284",
+            "x": 1590,
+            "y": 244
+        },
+        {
+            "type": "click",
+			"mapid": "1345",
+            "x": 1590,
+            "y": 197
+        },
+        {
+            "type": "click",
+			"mapid": "1319",
+            "x": 766,
+            "y": 72
+        },
+		{
+            "type": "click",
+			"mapid": "1304",
+            "x": 1590,
+            "y": 145
+        },
+		{
+            "type": "click",
+			"mapid": "1301",
+            "x": 1590,
+            "y": 442
+        },
+		{
+            "type": "click",
+			"mapid": "9402",
+            "x": 1590,
+            "y": 592
+        },
+		{
+            "type": "click",
+			"mapid": "1910",
+            "x": 1492,
+            "y": 49
+        },
+		{
+            "type": "click",
+			"mapid": "1892",
+            "x": 1396,
+            "y": 50
+        },
+		{
+			"type": "click",
+			"mapid": "1890",
+			"coordinates": [
+				{"x": 911, "y": 297, "delay": 5},
+				{"x": 1200, "y": 50}
+			]
+		},
+		{
+            "type": "click",
+			"mapid": "1888",
+            "x": 1009,
+            "y": 49
+        },
+		{
+            "type": "click",
+			"mapid": "1886",
+            "x": 1057,
+            "y": 469
+        },
+		{
+            "type": "banking",
+			"mapid": "10371",
+			"place": "sufokia"
+        }
+    ]
+}
