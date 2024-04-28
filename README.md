@@ -4,7 +4,7 @@ This is an unfinished Dofus Retro Bot made by PICwarior381 you can add him on di
 
 # Features
 
-Auto Farm
+Auto Farm resources
 
 Kill Protector (Alpha Phase)
 
